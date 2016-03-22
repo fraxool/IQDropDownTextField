@@ -263,6 +263,8 @@
             }
         }
         
+        NSLog("SELECT SOMETHING");
+        
         return [self setSelectedRow:0 animated:YES];
     }
 }
